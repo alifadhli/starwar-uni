@@ -15,7 +15,7 @@ let characters = {
         name: 'Princess Leia',
         health: 140,
         attack: 15,
-        imageUrl: "assets/images/Princess-Leia.Jpg",
+        imageUrl: "assets/images/Princess-Leia.jpg",
         enemyAttackBack: 18
     }, 
     'Greedo': {
